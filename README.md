@@ -1,3 +1,4 @@
+ https://github.com/aripitek <aripitek09@gmail.com> <aripitek90@gmail.com>
 # W3C _GPU for the Web_ Community Group
 
 <img alt="WebGPU logo" src="logo/webgpu-responsive.svg" width="400">
